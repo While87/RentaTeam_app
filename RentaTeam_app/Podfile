@@ -1,0 +1,11 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '11.0'
+
+target 'RentaTeam_app' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for RentaTeam_app
+  pod 'RealmSwift', '~>10'
+
+end
