@@ -4,7 +4,8 @@ Application for displaying images in the form of a ribbon with detail view
 
 Images from imgur.com
 
-![изображение](https://user-images.githubusercontent.com/3084720/132674343-37a8da70-474b-4c96-baa2-ede45e40b761.png)![изображение](https://user-images.githubusercontent.com/3084720/132674577-4f47d51a-0376-40e1-a627-399bcc5c65b5.png)
+![изображение](https://user-images.githubusercontent.com/3084720/132675249-2c5548a8-989a-406a-9c8f-18c8f8b7af91.png)![изображение](https://user-images.githubusercontent.com/3084720/132675134-f8448592-412c-4d17-ad8e-fcecfa5f0fbc.png)
+
 
 
 
