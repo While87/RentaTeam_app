@@ -1,6 +1,6 @@
 # RentaTeam_app
 
-Application for displaying images in the form of a ribbon with detail view
+Test application for displaying images in a vertical ribbon with detail view
 
 Images from https://imgur.com/ (JSON data)
 
